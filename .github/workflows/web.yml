@@ -1,4 +1,4 @@
-name: Netology AHJ
+name: ahj-dom
 
 on: [push, pull_request]
 
